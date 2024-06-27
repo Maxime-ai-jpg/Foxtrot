@@ -1,0 +1,7 @@
+2024/06/27-16:28:20.377 70fc Reusing MANIFEST G:/priver/jeu Perso/Angelika Emilien et moi/Unreal/5.4.2/été 2024/Projet été/Jeu-ete-2024/ETE/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/27-16:28:20.377 70fc Recovering log #3
+2024/06/27-16:28:20.379 70fc Reusing old log G:/priver/jeu Perso/Angelika Emilien et moi/Unreal/5.4.2/été 2024/Projet été/Jeu-ete-2024/ETE/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000003.log 
+2024/06/27-16:28:34.692 5008 Level-0 table #5: started
+2024/06/27-16:28:34.695 5008 Level-0 table #5: 1167 bytes OK
+2024/06/27-16:28:34.697 5008 Delete type=0 #3
+2024/06/27-16:28:34.698 5008 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,2 +1,15 @@
-2024/06/24-12:03:53.438 3198 Creating DB G:/priver/jeu Perso/Angelika Emilien et moi/Unreal/5.4.2/été 2024/Projet été/Jeu-ete-2024/ETE/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/06/24-12:03:53.445 3198 Reusing MANIFEST G:/priver/jeu Perso/Angelika Emilien et moi/Unreal/5.4.2/été 2024/Projet été/Jeu-ete-2024/ETE/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/27-16:28:36.569 1f28 Reusing MANIFEST G:/priver/jeu Perso/Angelika Emilien et moi/Unreal/5.4.2/été 2024/Projet été/Jeu-ete-2024/ETE/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/27-16:28:36.570 1f28 Recovering log #4
+2024/06/27-16:28:36.570 1f28 Reusing old log G:/priver/jeu Perso/Angelika Emilien et moi/Unreal/5.4.2/été 2024/Projet été/Jeu-ete-2024/ETE/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/06/27-17:10:49.100 145c Level-0 table #8: started
+2024/06/27-17:10:49.103 145c Level-0 table #8: 190 bytes OK
+2024/06/27-17:10:49.106 145c Delete type=0 #4
+2024/06/27-17:10:49.106 145c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/27-17:10:49.106 145c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 58 : 1
+2024/06/27-17:10:49.106 145c Compacting 1@1 + 1@2 files
+2024/06/27-17:10:49.109 145c Generated table #9@1: 18 keys, 534 bytes
+2024/06/27-17:10:49.109 145c Compacted 1@1 + 1@2 files => 534 bytes
+2024/06/27-17:10:49.112 145c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/27-17:10:49.112 145c Delete type=2 #5
+2024/06/27-17:10:49.112 145c Delete type=2 #8
+2024/06/27-17:10:49.113 145c Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 58 : 1 .. (end); will stop at (end)
